@@ -72,4 +72,4 @@ Coming soon:
 ## Connect With Me
 
 LinkedIn:
-[Your LinkedIn]
+linkedin.com/in/agnikoi-georges-koffi-130aa8168
