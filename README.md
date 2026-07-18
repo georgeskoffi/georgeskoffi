@@ -73,3 +73,29 @@ Coming soon:
 
 LinkedIn:
 linkedin.com/in/agnikoi-georges-koffi-130aa8168
+
+
+## Featured Projects
+
+🚧 Coming soon:
+
+- Linux Administration Labs
+- RHCSA Practice Labs
+- Linux Automation Scripts
+- Ansible Infrastructure Playbooks
+- Zabbix Monitoring Templates
+- Linux Security Hardening Guides
+
+
+## Currently Learning
+
+- Red Hat Certified System Administrator (RHCSA)
+- Python Automation for System Administration
+- Ansible Automation
+- Site Reliability Engineering (SRE)
+- Linux Security & Hardening
+
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/agnikoi-georges-koffi-130aa8168
