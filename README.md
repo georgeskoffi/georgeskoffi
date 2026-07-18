@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Georges Koffi 👋
 
-<!--
-**georgeskoffi/georgeskoffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux Infrastructure Engineer | Automation | SRE | Cybersecurity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Linux Infrastructure Engineer passionate about:
+
+- Enterprise Linux
+- Infrastructure Automation
+- Site Reliability Engineering
+- Open Source Technologies
+- Cybersecurity
+
+I build, secure and automate reliable infrastructure.
+
+---
+
+## Technical Skills
+
+### Operating Systems
+🐧 RHEL
+🐧 Rocky Linux
+🐧 Ubuntu
+
+### Automation
+⚙️ Bash
+🐍 Python
+🔧 Ansible
+
+### Infrastructure
+🖥 VMware
+🖥 Proxmox
+🐳 Docker
+
+### Monitoring
+📊 Zabbix
+📈 Grafana
+📈 Prometheus
+
+### Security
+🔐 Linux Hardening
+🔐 SSH Security
+🔐 SELinux
+🔐 System Auditing
+
+---
+
+## Current Learning Path
+
+🎯 RHCSA
+🎯 Python Automation
+🎯 SRE Practices
+🎯 DevOps Tools
+
+---
+
+## Featured Projects
+
+Coming soon:
+
+- Linux Administration Labs
+- RHCSA Practice Labs
+- Ansible Automation
+- Monitoring Templates
+- Security Hardening Guides
+
+---
+
+## Connect With Me
+
+LinkedIn:
+[Your LinkedIn]
